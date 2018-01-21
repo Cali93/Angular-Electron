@@ -7,7 +7,7 @@ import { ElectronService } from 'ngx-electron';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngElectron2';
+  title = 'CyCorp';
 
   constructor(private _elctronService: ElectronService){}
     launchWindow(){
