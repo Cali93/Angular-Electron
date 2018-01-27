@@ -38,7 +38,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n\r\n<div style=\"text-align:center\">\r\n\r\n  <h1>\r\n    Welcome {{ title }}!\r\n  </h1>\r\n  <button (click)=\"launchWindow()\">Go to BeCode</button>\r\n  <app-home></app-home>\r\n  <app-about></app-about>\r\n  <img width=\"100%\" alt=\"Angular Logo\" src=\"https://angularfirebase.com/images/thumbs/electron-12.png\">\r\n\r\n</div>\r\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n\r\n<div style=\"text-align:center\">\r\n\r\n  <h1>\r\n    Welcome {{ title }}!\r\n  </h1>\r\n  <app-home></app-home>\r\n  <app-about></app-about>\r\n  <button (click)=\"launchWindow()\">Go to BeCode</button>\r\n  <img width=\"100%\" alt=\"Angular Logo\" src=\"https://angularfirebase.com/images/thumbs/electron-12.png\">\r\n\r\n</div>\r\n"
 
 /***/ }),
 
